@@ -1,3 +1,5 @@
+// Program to count to zero from a given positive or negative number, implemnts recursive function
+
 #include<stdio.h>
 
 int countToZero(int num)
